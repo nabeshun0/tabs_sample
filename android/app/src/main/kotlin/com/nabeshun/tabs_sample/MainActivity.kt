@@ -1,0 +1,6 @@
+package com.nabeshun.tabs_sample
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
